@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "startdev" : "nodemon --ignore public/* server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "PAL BCN <palbcn@yahoo.com> (palbcn.com)",
