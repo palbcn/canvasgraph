@@ -1,0 +1,9 @@
+body {
+  max-width: 450px;
+  margin: 12px auto;
+  font-family: sans-serif;
+}
+
+canvas {
+  border: 1px #eee solid;
+}
